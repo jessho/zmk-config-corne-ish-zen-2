@@ -76,7 +76,7 @@
             bindings = <
                 &kp TILDE &kp AMPS &kp ASTRK &kp LPAR  &kp PIPE        &none    &none     &none    &none    &none
                 &kp LBRC  &kp DLLR &kp PRCNT &kp CARET &kp RBRC        &kp RHYP &kp RSHFT &kp RCMD &kp RALT &kp RCTRL
-                &trans    &kp EXCL &kp AT    &kp HASH  &kp COLON       &trans   &trans    &trans   &trans   &trans
+                &none     &kp EXCL &kp AT    &kp HASH  &kp COLON       &none   &none    &none   &none   &none
                                    &kp UNDER &kp RPAR  &kp PLUS        &to 0    &trans    &trans
             >;
         };
